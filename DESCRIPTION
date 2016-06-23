@@ -3,9 +3,8 @@ Title: United States of America Map with the NAD 1983 Albers Projection
 Version: 1.0.0
 Author: Irucka Embry [aut]
 Maintainer: Irucka Embry <iembry@usgs.gov>
-Depends:
-    R (>= 2.14.0),
-    rgdal
+Depends: R (>= 2.14.0)
+Suggests: rgdal
 Description: A map of the USA from the United States Geological Survey (USGS).
     Irucka worked with this data set while a Cherokee Nation Technology
     Solutions (CNTS) USGS Contractor and/or USGS employee.
@@ -19,4 +18,3 @@ Copyright: This software is in the public domain because it contains materials
     http://www.usgs.gov/visual-id/credit_usgs.html#copyright
 LazyData: true
 Encoding: UTF-8
-RoxygenNote: 5.0.1
