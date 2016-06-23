@@ -1,5 +1,5 @@
 Package: USGSstates2k
-Title: United States of America map with the NAD 1983 Albers projection
+Title: United States of America Map with the NAD 1983 Albers Projection
 Version: 1.0.0
 Author: Irucka Embry [aut]
 Maintainer: Irucka Embry <iembry@usgs.gov>
@@ -17,5 +17,3 @@ Copyright: This software is in the public domain because it contains materials
     http://www.usgs.gov/visual-id/credit_usgs.html#copyright
 LazyData: true
 Encoding: UTF-8
-RoxygenNote: 5.0.1
-VignetteBuilder: knitr
