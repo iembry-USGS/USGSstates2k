@@ -13,7 +13,7 @@ install.packages("USGSstates2k")
 # Package Contents
 This package currently contains three datasets:
 
-* `states2k`: states2k map with 0GR read data
+* `states2k`: states2k map with OGR read data
 * `states2k_info`: states2k OGR information
 * `states2k_summary`: states2k Spatial summary
 

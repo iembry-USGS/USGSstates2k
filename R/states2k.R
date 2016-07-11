@@ -1,4 +1,4 @@
-#' states2k map with 0GR read data
+#' states2k map with OGR read data
 #'
 #' A spatial polygons data frame containing a map of the USA based on the NAD
 #' 1983 Albers projection.
