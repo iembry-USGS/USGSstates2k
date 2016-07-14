@@ -7,4 +7,5 @@
 #'
 #' @docType package
 #' @name USGSstates2k
+#' @import sp
 NULL
