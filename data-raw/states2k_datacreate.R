@@ -3,12 +3,12 @@
 library(rgdal)
 
 # Source 1 begins
-states2k_info <- ogrInfo("/home/uoxyh/R/My_R_Repo/USGSstates2k/inst/shapefiles/", "states2k")
-save(states2k_info, file = "/home/uoxyh/R/My_R_Repo/USGSstates2k/data/states2k_info.RData")
+states2k_info <- ogrInfo("inst/shapefiles/", "states2k")
+save(states2k_info, file = "data/states2k_info.RData")
 
-states2k <- readOGR("/home/uoxyh/R/My_R_Repo/USGSstates2k/inst/shapefiles/", "states2k")
-save(states2k, file = "/home/uoxyh/R/My_R_Repo/USGSstates2k/data/states2k.RData")
+states2k <- readOGR("inst/shapefiles/", "states2k")
+save(states2k, file = "data/states2k.RData")
 
 states2k_summary <- summary(states2k)
-save(states2k_summary, file = "/home/uoxyh/R/My_R_Repo/USGSstates2k/data/states2k_summary.RData")
+save(states2k_summary, file = "data/states2k_summary.RData")
 # Source 1 ends
