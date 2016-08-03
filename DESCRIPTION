@@ -1,6 +1,6 @@
 Package: USGSstates2k
 Title: Replaced by `states2k` -- United States of America Map with the NAD 1983 Albers Projection
-Version: 1.0.0
+Version: 1.0.1
 Author: Irucka Embry [aut]
 Maintainer: Irucka Embry <iembry@usgs.gov>
 Depends: R (>= 2.14.0), sp (>= 1.1-0)
