@@ -1,11 +1,14 @@
 Package: USGSstates2k
-Title: Replaced by `states2k` -- United States of America Map with the NAD 1983 Albers Projection
+Title: Replaced by 'states2k' -- United States of America Map with the NAD 1983 Albers Projection
 Version: 1.0.1
 Author: Irucka Embry [aut]
 Maintainer: Irucka Embry <iembry@usgs.gov>
 Depends: R (>= 2.14.0), sp (>= 1.1-0)
 Suggests: rgdal
-Description: Replaced by `states2k`.
+Description: A map of the USA from the United States Geological Survey (USGS).
+    Irucka worked with this data set while a Cherokee Nation Technology
+    Solutions (CNTS) USGS Contractor and/or USGS employee. It is replaced by
+    'states2k'.
 URL:
 BugReports:
 License: CC0
