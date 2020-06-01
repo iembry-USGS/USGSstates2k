@@ -2,7 +2,7 @@ Package: USGSstates2k
 Title: United States of America Map with the NAD 1983 Albers Projection [DISCONTINUED and replaced with `USA_state_boundaries` package]
 Version: 1.0.2
 Author: Irucka Embry [aut]
-Maintainer: Irucka Embry <iembry@ecoccs.com>
+Maintainer: ORPHANED
 BugReports: https://gitlab.com/iembry/iemisc/USA.state.boundaries/issues
 Depends: R (>= 2.14.0)
 Imports: sp (>= 1.1-0)
