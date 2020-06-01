@@ -1,0 +1,20 @@
+Package: USGSstates2k
+Title: United States of America Map with the NAD 1983 Albers Projection [DISCONTINUED and replaced with `USA_state_boundaries` package]
+Version: 1.0.2
+Author: Irucka Embry [aut]
+Maintainer: ORPHANED
+BugReports: https://gitlab.com/iembry/iemisc/USA.state.boundaries/issues
+Depends: R (>= 2.14.0)
+Imports: sp (>= 1.1-0)
+Suggests: rgdal
+Description: This package has been superseded and replaced by the
+             `USA_state_boundaries` package.
+License: CC0 | file LICENSE
+Copyright: This software is in the public domain because it contains materials
+    that originally came from the United States Geological Survey, an agency of
+    the United States Department of Interior. For more information, see the
+    official USGS copyright policy at
+    http://www.usgs.gov/visual-id/credit_usgs.html#copyright
+LazyData: true
+Encoding: UTF-8
+RoxygenNote: 7.1.0
